@@ -1,6 +1,4 @@
 # Dungeon-Meshi-Delivery-Service
- Dungeon-Meshi-Delivery-Service
-
 <!DOCTYPE html>
 <html style="background-color:PowderBlue" lang="en">
 
